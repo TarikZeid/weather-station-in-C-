@@ -1,2 +1,3 @@
-# weather-station-in-C-
+# weather-station
+
 finalized version
